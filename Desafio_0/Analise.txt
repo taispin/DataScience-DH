@@ -1,0 +1,11 @@
+DESAFIO 0:
+
+1. Leitura dos dados
+
+2. Observação das informações das variáveis (auto_industry.info()):
+		Os datatypes se mostram coerentes, as unicas variáveis de tipos não numéricos são: origin e name
+		
+3.  Verificação dos registros com NaN, Null ou " "
+		Foram enocntrados 6 registros com valores inválidos. Por ser menos do que 2% dos dados, esses registros foram dropados
+
+4.  Observação inicial das medidas de disperção das variáveis		
